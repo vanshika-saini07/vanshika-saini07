@@ -16,9 +16,12 @@
 </a>
 
 <!-- ACTION & CONNECT BUTTONS -->
-<div align="center">
-
 <br/>
+<div align="center">
+<a href="https://vanshika-saini07.github.io/vanshika-portfolio/">
+  <img src="https://img.shields.io/badge/❁_EXPLORE_MY_PORTFOLIO-B6F2D1?style=for-the-badge&labelColor=133E38&color=B6F2D1" alt="Explore My Portfolio" width="245"/>
+</a>
+<br/><br/>
 
 <img src="https://img.shields.io/badge/❁_B.Sc._AI_%26_ML-B6F2D1?style=for-the-badge&labelColor=133E38&color=133E38"/>
 <img src="https://img.shields.io/badge/❁_MM(DU),_Mullana-B3EBF2?style=for-the-badge&labelColor=133E38&color=133E38"/>
