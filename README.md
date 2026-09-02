@@ -43,9 +43,9 @@ Currently pursuing **B.Sc. in Artificial Intelligence & Machine Learning**, I'm 
 I like building projects where **AI isn't just a feature, but actually solves a problem** — from intelligent systems and computer-vision applications to web platforms and hackathon prototypes.
 
 ```text
-🤖 AI / ML              →  Machine Learning • Deep Learning • Computer Vision
-💻 Development          →  Python • JavaScript • HTML • CSS • React
-🎨 Creative Tech        →  UI Design • Motion • GSAP • Interactive Experiences
+🤖 AI / ML              →  Machine Learning  • Deep Learning  • Computer Vision
+💻 Development          →  Python  • JavaScript • HTML • CSS  • API Integration
+🎨 Creative Tech        →  UI Design • Motion  • GSAP • Interactive Experiences
 🚀 Building             →  AI Projects • Full-Stack Apps • Hackathon Prototypes
 ```
 
