@@ -81,6 +81,7 @@ Currently, I'm focused on **strengthening my fundamentals, building real project
   <img src="https://img.shields.io/badge/ScrollTrigger-B6F2D1?style=flat-square&logo=greensock&logoColor=133E38" height="32" alt="ScrollTrigger" />&nbsp;
   <img src="https://img.shields.io/badge/WebGL-133E38?style=flat-square&logo=webgl&logoColor=B6F2D1" height="32" alt="WebGL" />
 </p>
+<br/>
 
 <!-- BACKEND & DATABASES -->
 <h3>⚙️ Backend & Databases</h3>
@@ -91,6 +92,7 @@ Currently, I'm focused on **strengthening my fundamentals, building real project
   <img src="https://img.shields.io/badge/REST_APIs-B6F2D1?style=flat-square&logo=fastapi&logoColor=133E38" height="32" alt="REST APIs" />&nbsp;
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" height="32" alt="Postman" />
 </p>
+<br/>
 
 <!-- AI / ML & LANGUAGES -->
 <h3>🧠 AI / ML, Computer Vision & Languages</h3>
@@ -103,6 +105,7 @@ Currently, I'm focused on **strengthening my fundamentals, building real project
   <img src="https://img.shields.io/badge/CNNs_%26_GANs-B3EBF2?style=flat-square&logo=pytorch&logoColor=133E38" height="32" alt="CNNs" />&nbsp;
   <img src="https://img.shields.io/badge/NumPy_%26_Pandas-D4DE95?style=flat-square&logo=pandas&logoColor=133E38" height="32" alt="NumPy" />
 </p>
+<br/>
 
 <!-- AI-ASSISTED DEVELOPMENT & PRODUCTIVITY -->
 <h3>🤖 AI-Assisted Tools & Vibe Coding</h3>
@@ -114,6 +117,7 @@ Currently, I'm focused on **strengthening my fundamentals, building real project
   <img src="https://img.shields.io/badge/Cursor_AI-000000?style=flat-square&logo=cursor&logoColor=white" height="32" alt="Cursor" />&nbsp;
   <img src="https://img.shields.io/badge/Perplexity-20B2AA?style=flat-square&logo=perplexity&logoColor=white" height="32" alt="Perplexity" />
 </p>
+<br/>
 
 <!-- DEVELOPER TOOLS & WORKFLOW -->
 <h3>🛠️ Developer Tools & Design</h3>
