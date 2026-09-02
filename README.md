@@ -15,41 +15,45 @@
   <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=21&duration=2800&pause=900&color=B6F2D1&center=true&vCenter=true&multiline=false&width=650&height=45&lines=AI%2FML+Student+%26+Builder;Computer+Vision+%26+Deep+Learning;Full-Stack+Web+Developer;Creative+Motion+%26+UI+Design;Hackathon+Prototyper" alt="Typing Headline" />
 </a>
 
-<br /><br />
-
 <!-- ACTION & CONNECT BUTTONS -->
-<p align="center">
-  <a href="https://vanshika-saini07.github.io/vanshika-portfolio/" target="_blank"><img src="https://img.shields.io/badge/🌐_Portfolio-B6F2D1?style=for-the-badge&logo=googlechrome&logoColor=133E38&labelColor=133E38" alt="Portfolio" /></a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/vanshika-s040107/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-B3EBF2?style=for-the-badge&logo=linkedin&logoColor=133E38&labelColor=133E38" alt="LinkedIn" /></a>&nbsp;&nbsp;
-  <a href="mailto:vanshikaaaaa040107@gmail.com"><img src="https://img.shields.io/badge/Email-D4DE95?style=for-the-badge&logo=gmail&logoColor=133E38&labelColor=133E38" alt="Email" /></a>&nbsp;&nbsp;
-  <a href="https://github.com/vanshika-saini07" target="_blank"><img src="https://img.shields.io/badge/GitHub-133E38?style=for-the-badge&logo=github&logoColor=B6F2D1&labelColor=0D2622" alt="GitHub" /></a>
-</p>
+<div align="center">
 
-<!-- LIVE STATS BADGES -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vanshika-saini07&style=for-the-badge&color=B6F2D1&label=PROFILE+VIEWS" alt="Views" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/github/followers/vanshika-saini07?style=for-the-badge&logo=github&color=B6F2D1&labelColor=133E38&logoColor=B6F2D1" alt="Followers" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/github/stars/vanshika-saini07?style=for-the-badge&logo=github&color=B6F2D1&labelColor=133E38&logoColor=B6F2D1" alt="Stars" />
-</p>
+<br/>
 
-</div>
+<img src="https://img.shields.io/badge/❁_B.Sc._AI_%26_ML-B6F2D1?style=for-the-badge&labelColor=133E38&color=133E38"/>
+<img src="https://img.shields.io/badge/❁_MM(DU),_Mullana-B3EBF2?style=for-the-badge&labelColor=133E38&color=133E38"/>
+<img src="https://img.shields.io/badge/❁_Haryana,_India-D4DE95?style=for-the-badge&labelColor=133E38&color=133E38"/>
+<img src="https://img.shields.io/badge/❁_Building_with_AI-C9FDF2?style=for-the-badge&labelColor=133E38&color=133E38"/>
+
+<br/>
+
 
 ---
 
-## 🧭 About Me
+## 🌿 About Me
 
 <div align="center">
 
+</div>
+
+I'm **Vanshika**, an **AI/ML student and builder** who enjoys turning ideas into practical, interactive products.
+
+Currently pursuing **B.Sc. in Artificial Intelligence & Machine Learning**, I'm exploring the intersection of **Machine Learning, Computer Vision, Full-Stack Development, and creative UI experiences**.
+
+I like building projects where **AI isn't just a feature, but actually solves a problem** — from intelligent systems and computer-vision applications to web platforms and hackathon prototypes.
+
+```text
+🤖 AI / ML              →  Machine Learning • Deep Learning • Computer Vision
+💻 Development          →  Python • JavaScript • HTML • CSS • React
+🎨 Creative Tech        →  UI Design • Motion • GSAP • Interactive Experiences
+🚀 Building             →  AI Projects • Full-Stack Apps • Hackathon Prototypes
 ```
-┌────────────────────────────────────────────────────────────────────────┐
-│                                                                        │
-│   🎓  AI / ML Undergraduate Student @ MM(DU), Mullana                   │
-│   💡  Building Full-Stack Systems, Computer Vision & AI Products        │
-│   🚀  Active Hackathon Prototyper & Creative Motion Developer          │
-│   🤝  Open to Collaborations, AI/ML Research & Innovative Ideas        │
-│                                                                        │
-└────────────────────────────────────────────────────────────────────────┘
-```
+
+Currently, I'm focused on **strengthening my fundamentals, building real projects, experimenting with new technologies, and turning concepts into things people can actually use.**
+
+<div align="center">
+
+**Build → Experiment → Learn → Improve**
 
 </div>
 
@@ -138,6 +142,17 @@ exploring:
   - OpenCV, CNNs, GANs & Transformers
   - AI-Assisted Product Engineering
 ```
+---
+
+## ◈ GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vanshika-saini07&hide_border=true&background=133E38&ring=B6F2D1&fire=D4DE95&currStreakLabel=B6F2D1&sideLabels=B6F2D1&currStreakNum=E8FDF5&sideNums=C9FDF2&dates=9FD8C5" />
+
+<br><br>
+
+</div>
 
 ---
 
@@ -145,18 +160,12 @@ exploring:
 
 <!-- SOCIAL BADGES -->
 <p align="center">
-  <a href="https://vanshika-saini07.github.io/vanshika-portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-B6F2D1?style=for-the-badge&logo=googlechrome&logoColor=133E38&labelColor=133E38" alt="Portfolio" />
-  </a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/vanshika-s040107/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-B3EBF2?style=for-the-badge&logo=linkedin&logoColor=133E38&labelColor=133E38" alt="LinkedIn" />
-  </a>&nbsp;&nbsp;
-  <a href="mailto:vanshikaaaaa040107@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D4DE95?style=for-the-badge&logo=gmail&logoColor=133E38&labelColor=133E38" alt="Email" />
-  </a>&nbsp;&nbsp;
-  <a href="https://github.com/vanshika-saini07" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-133E38?style=for-the-badge&logo=github&logoColor=B6F2D1&labelColor=0D2622" alt="GitHub" />
-  </a>
+ <div align="center">
+
+<a href="mailto:vanshikaaaaa040107@gmail.com"><img src="https://img.shields.io/badge/◆_Gmail-B6F2D1?style=for-the-badge&labelColor=133E38&color=B6F2D1"/></a>
+<a href="https://www.linkedin.com/in/vanshika-s040107/"><img src="https://img.shields.io/badge/◆_LinkedIn-B6F2D1?style=for-the-badge&labelColor=133E38&color=B6F2D1"/></a>
+<a href="https://github.com/vanshika-saini07"><img src="https://img.shields.io/badge/◆_GitHub-B6F2D1?style=for-the-badge&labelColor=133E38&color=B6F2D1"/></a>
+<a href="https://vanshika-saini07.github.io/vanshika-portfolio/"><img src="https://img.shields.io/badge/◆_Portfolio-B6F2D1?style=for-the-badge&labelColor=133E38&color=B6F2D1"/></a>
 </p>
 
 </div>
