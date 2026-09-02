@@ -28,7 +28,7 @@
 <img src="https://img.shields.io/badge/❁_Haryana,_India-D4DE95?style=for-the-badge&labelColor=133E38&color=133E38"/>
 <img src="https://img.shields.io/badge/❁_Building_with_AI-C9FDF2?style=for-the-badge&labelColor=133E38&color=133E38"/>
 
-<br/>
+<br/><br/>
 
 
 ---
@@ -59,9 +59,11 @@ Currently, I'm focused on **strengthening my fundamentals, building real project
 **Build → Experiment → Learn → Improve**
 
 </div>
+<br/><br/>
+
+
 
 ---
-
 ## 🛠️ Tech & Tools
 
 <div align="center">
@@ -123,6 +125,7 @@ Currently, I'm focused on **strengthening my fundamentals, building real project
 </p>
 
 </div>
+<br/>
 
 
 ---
@@ -145,6 +148,8 @@ exploring:
   - OpenCV, CNNs, GANs & Transformers
   - AI-Assisted Product Engineering
 ```
+<br/><br/>
+
 ---
 
 ## ◈ GitHub Analytics
@@ -174,7 +179,7 @@ exploring:
 </div>
 
 ---
-
+<br/>
 <div align="center">
 
 > *“Build with curiosity. Engineer with purpose.”*
